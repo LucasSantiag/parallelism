@@ -1,23 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b65389a-b05f-48a0-8480-0a4abb56c845" name="Default Changelist" comment="" />
+    <list default="true" id="4b65389a-b05f-48a0-8480-0a4abb56c845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/parallelism-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/parallelism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/parallelism.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1bEKXok1IRCuJ1NBt8jj7Qo06T9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Atomicity">
+    <configuration name="Atomicity" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Atomicity" />
+      <module name="parallelism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPlayground" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.ThreadPlayground" />
+      <module name="parallelism" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Atomicity" />
+        <item itemvalue="Application.ThreadPlayground" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="parallelism" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="parallelism [file:/home/lucas.cardoso/Projects/parallelism/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="parallelism-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="3176383708662" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="854678304" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2620759781" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -60,5 +148,31 @@
       <updated>1588191854312</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="189" width="614" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588192103962">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="388" y="189" width="614" height="416" key="#com.intellij.fileTypes.FileTypeChooser/35.27.1331.741@35.27.1331.741" timestamp="1588192103962" />
+    <state width="1285" height="151" key="GridCell.Tab.0.bottom" timestamp="1588194145522">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state width="1285" height="151" key="GridCell.Tab.0.bottom/35.27.1331.741@35.27.1331.741" timestamp="1588194145522" />
+    <state width="1285" height="151" key="GridCell.Tab.0.center" timestamp="1588194145522">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state width="1285" height="151" key="GridCell.Tab.0.center/35.27.1331.741@35.27.1331.741" timestamp="1588194145522" />
+    <state width="1285" height="151" key="GridCell.Tab.0.left" timestamp="1588194145522">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state width="1285" height="151" key="GridCell.Tab.0.left/35.27.1331.741@35.27.1331.741" timestamp="1588194145522" />
+    <state width="1285" height="151" key="GridCell.Tab.0.right" timestamp="1588194145522">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state width="1285" height="151" key="GridCell.Tab.0.right/35.27.1331.741@35.27.1331.741" timestamp="1588194145522" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1588194033595">
+      <screen x="35" y="27" width="1331" height="741" />
+    </state>
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/35.27.1331.741@35.27.1331.741" timestamp="1588194033595" />
   </component>
 </project>
